@@ -1,0 +1,6 @@
+      <td>
+                                <input type="button" (click)="delete()"   value="delete" class="btn btn-default"/>
+                             </td> 
+                             <td>
+                                    <input type="button" (click)="update()"   value="update" class="btn btn-default"/>
+                                 </td> 

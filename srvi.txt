@@ -1,0 +1,66 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<ArrayOfProduct xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ProductAPIService.Models">
+<Product>
+<CategoryName>home</CategoryName>
+<Price>45</Price>
+<ProductId>6</ProductId>
+<ProductName>ABC</ProductName>
+<ProductRecId>52</ProductRecId>
+</Product>
+<Product>
+<CategoryName>Home Appliances</CategoryName>
+<Price>123</Price>
+<ProductId>12</ProductId>
+<ProductName>dsad</ProductName>
+<ProductRecId>57</ProductRecId>
+</Product>
+<Product>
+<CategoryName>Medicines</CategoryName>
+<Price>123213</Price>
+<ProductId>44</ProductId>
+<ProductName>sadsad</ProductName>
+<ProductRecId>63</ProductRecId>
+</Product>
+<Product>
+<CategoryName>IT</CategoryName>
+<Price>1000</Price>
+<ProductId>101</ProductId>
+<ProductName>Laptop</ProductName>
+<ProductRecId>81</ProductRecId>
+</Product>
+<Product>
+<CategoryName>Home Appliances</CategoryName>
+<Price>1212</Price>
+<ProductId>144</ProductId>
+<ProductName>sadfasda</ProductName>
+<ProductRecId>58</ProductRecId>
+</Product>
+<Product>
+<CategoryName>electronics</CategoryName>
+<Price>32000</Price>
+<ProductId>1009</ProductId>
+<ProductName>laptop</ProductName>
+<ProductRecId>79</ProductRecId>
+</Product>
+<Product>
+<CategoryName>electronic</CategoryName>
+<Price>0</Price>
+<ProductId>6666</ProductId>
+<ProductName>Shubham</ProductName>
+<ProductRecId>65</ProductRecId>
+</Product>
+<Product>
+<CategoryName>Cat123</CategoryName>
+<Price>454</Price>
+<ProductId>203020</ProductId>
+<ProductName>Test 201030</ProductName>
+<ProductRecId>75</ProductRecId>
+</Product>
+<Product>
+<CategoryName>Category 1717171</CategoryName>
+<Price>1717171</Price>
+<ProductId>1717171</ProductId>
+<ProductName>Product 1717171</ProductName>
+<ProductRecId>80</ProductRecId>
+</Product>
+</ArrayOfProduct>
